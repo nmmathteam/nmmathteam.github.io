@@ -1,2 +1,2 @@
 # NM Math Team
-NM Math Team, template Fractal by HTML5UP.
+NM Math Team website repository. Code is very messy.
