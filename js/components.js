@@ -11,6 +11,7 @@ function $(e){return document.querySelector(e)}const nav=`
     <li><a href="/?e=cards-container">About us</a></li>
     <li><a href="/?e=wave">Our Team</a></li>
     <li><a href="/calendar">Calendar</a></li>
+    <li><a href="https://forms.gle/efdDBimGox1kPukQ7" target="_blank" id="join">Join!</a></li>
 </ul>
 `,footer=`
 <div>
