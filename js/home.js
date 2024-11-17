@@ -12,7 +12,7 @@ function $(a){return document.querySelector(a)}$('nav').innerHTML=`
     <li><a href="#">Our Team</a></li>
     <li><a href="#">Sponsors</a></li>
     <li><a href="/calendar">Calendar</a></li>
-    <li><a href="/handouts">Resources</a></li>
+    <li><a href="/resources">Resources</a></li>
     <li><a href="https://forms.gle/efdDBimGox1kPukQ7" target="_blank" id="join">Join!</a></li>
 </ul>
 `;$('footer').innerHTML=`
